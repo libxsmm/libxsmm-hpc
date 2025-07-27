@@ -34,7 +34,7 @@ DERS="0"
 MEMKIND="0"
 
 # some relative pathes
-LIBXSMM_ROOT=${SEISSOL_PROXY_ROOT}/../../
+LIBXSMM_ROOT=${SEISSOL_PROXY_ROOT}/../libxsmm
 SEISSOL_KERNELS_ROOT=${SEISSOL_PROXY_ROOT}/seissol_kernels
 #SEISSOL_KERNELS_ROOT=/nfs_home/aheineck/Projects/SeisSol_workspace/seissol_kernels
 

@@ -8,3 +8,7 @@ axhm
 grad
 rstr
 *.dot
+.state
+*.a
+*.mod
+obj/
